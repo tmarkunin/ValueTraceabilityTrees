@@ -1,0 +1,5 @@
+Define GCP billing alarms: https://cloud.google.com/billing/docs/how-to/budgets
+
+Avoid surprises on your bill by creating budgets to monitor all your Google Cloud charges in one place. After you've set a budget amount, you set budget alert rules that are used to trigger notifications, so you can stay informed about how your spend is tracking against your budget.
+
+You can apply budget alerts to a Cloud Billing account, to one or more projects, and/or one or more products. You can set the budget to an amount you specify or match it to the previous month's spend. When costs (actual costs or forecasted costs) exceed a percentage of your budget (based on the rules you set), alert emails are sent to Billing Account Administrators and Billing Account Users on the target Cloud Billing account (that is, every user assigned a billing role of either roles/billing.admin or roles/billing.user).
