@@ -4,10 +4,10 @@ It's recommended to create separate GCP project for each environment and define 
 
 The following diagram shows an example hierarchy. 
 
+![Image of GCP Hierarchy](../../img/GCP_Hierarchy.png)
 
 
-
-##### Capping usage 
+#### Capping usage 
 You might want to limit usage of a particular resource by setting your own quota limits. For example, to prevent getting billed for usage beyond the free courtesy usage limits, you can set requests per day caps. The simplest way to cap quota is to edit the limits on the API-specific quota page. 
 
 Go to the quota page in the Cloud Console for the API whose usage you want to cap. 
