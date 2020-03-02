@@ -4,11 +4,9 @@ Value traceability trees are used to understand what strategies and associated m
 # VTT Structure
 
 Objective
-    |
-    |->Strategy
-            |
-            |-> Pattern
-                    |->Pattern implementation AWS
-                    |->Pattern implementation Azure
-                    |->Pattern implementation GCP
-                    |->Pattern implementation K8S ?
+    ->Strategy
+            -> Pattern
+                    ->Pattern implementation AWS
+                    ->Pattern implementation Azure
+                    ->Pattern implementation GCP
+                    ->Pattern implementation K8S ?
