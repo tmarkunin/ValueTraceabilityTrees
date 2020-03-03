@@ -4,8 +4,8 @@ Generally, non-production environments shouldn’t be available 24x7, multi-avai
 ## EC2 ##
 EC2 configuration should be tailored based on environment purpose and workload patterns. 
 Consider:
-- Automation of instance starting and stopping for instances with periodic loads, e.g. cap-document-sync, doc-transformation-service, cpa-orchestrator, feature-generation-service, etc. 
-Below is the typical CPU utilization pattern for these services:
+- Automation of instance starting and stopping for instances with periodic loads. 
+Below is the typical CPU utilization pattern for this load pattern:
 
 ![Image of AWS EC2 monitoring](../../img/load_pattern.png)
 
