@@ -18,6 +18,7 @@ Cloud Billing reports can help you answer questions like these:
 [![GCP Billing Analysis](../../img//youtube1.png)](https://www.youtube.com/watch?v=XR_d8u5AGyM)
 
 ***Usage data analysis with BigQuery***
+
 Cloud Billing export to BigQuery enables you to export detailed Google Cloud billing data (such as usage and cost estimate data) automatically throughout the day to a BigQuery dataset that you specify. Then you can access your Cloud Billing data from BigQuery for SQL query and detailed analysis, or use a tool like Google Data Studio to visualize your data. 
 
 ![Image of GCP Hierarchy](../../img/billing3.png)
