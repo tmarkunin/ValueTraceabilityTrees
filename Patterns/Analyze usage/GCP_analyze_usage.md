@@ -1,5 +1,9 @@
 ***Cloud Billing Reports***
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/XR_d8u5AGyM)
+
+
+
 The Cloud Billing Reports page lets you view your Google Cloud (Google Cloud) usage costs at a glance and discover and analyze trends. The Reports page displays a chart that plots usage costs for all projects linked to a Cloud Billing Account. To help you view the cost trends that are important to you, you can select a data range, specify a time range, configure the chart filters, and group by project, product, SKU, or location.
 
 Cloud Billing reports can help you answer questions like these:
