@@ -26,6 +26,8 @@ Objective
     - Dynamic development environments
     - Metric: Cost Savings after improvement implementation
 ### Objective: Decrease TTM
+  - #### Strategy: Agile delivery
+    - Value stream mapping analysis
   - #### Strategy: Automate delivery pipeline
     - Dynamic development environments  
     - Metric: LeadTime
